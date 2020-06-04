@@ -1,7 +1,3 @@
-- 主页
-
-  - [home](/)
-
 - - **前端**
   - [node](/frontend/node/md/_sidebar.md)
   - [ECMAScript](frontend/ecmascript/_sidebar.md)
@@ -16,20 +12,20 @@
   - [Spring Boot](backend/springboot/_sidebar.md)
   - [Spring Cloud](backend/springCloud/_sidebar.md)
 
-- DevOps
+- - **DevOps**
   - [Linux]()
   - [Nginx]()
   - [tomcat]()
   - [LNMP]()
 
-- 数据库
-  - [PostgreSQL]()
+- - **数据库**
+  - [PostgreSQL](/数据库/PostgreSQL/_sidebar.md)
   - [Elasticsearch]()
   - [MongoDB]()
   - [MySQL]()
   - [Redis]()
 
-- 开发编程
+- - **开发编程**
   - [deepin](others/deepin/_sidebar.md)
   - [IDEA](others/idea/_sidebar.md)
   - [markdown](others/markdown/_sidebar.md)

@@ -1,7 +1,3 @@
-- [Home]()
-- DevOps
-  - [:uk: nginx](/)
-  - [:cn: mysql](/zh-cn/)
-- 语言
-  - [:uk: English](/)
-  - [:cn: 中文](/zh-cn/)
+- [Home](/)
+- [Blog](https://www.dreamer1103.tk)
+- [Cloud disk](/other)
