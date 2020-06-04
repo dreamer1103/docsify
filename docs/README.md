@@ -8,7 +8,7 @@ hexo-theme-sakura主题 [English document](https://github.com/honjun/hexo-theme-
 
 正在开发中......
 
-![](https://wx3.sinaimg.cn/large/006bYVyvly1g069tuf42oj312w0m8ndq.jpg)
+![avatar](https://wx3.sinaimg.cn/large/006bYVyvly1g069tuf42oj312w0m8ndq.jpg)
 
 ## 主题特性
 
