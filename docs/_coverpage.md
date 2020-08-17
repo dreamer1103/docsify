@@ -9,4 +9,4 @@
 - 狂热的学习者
 
 [Home](/)
-[Blog](https://www.dreamer1103.tk)
+[Blog](https://blog.dreamer.ga)

@@ -13,7 +13,7 @@
   - [Spring Cloud](backend/springCloud/_sidebar.md)
 
 - - **DevOps**
-  - [Linux]()
+  - [Linux](DevOps\Linux/_sidebar.md)
   - [Nginx]()
   - [tomcat]()
   - [LNMP]()

@@ -1,3 +1,3 @@
 - [Home](/)
-- [Blog](https://www.dreamer1103.tk)
+- [Blog](https://blog.dreamer.ga)
 - [Cloud disk](/other)
